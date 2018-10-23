@@ -9,5 +9,5 @@
 - Valencia
 - Deni Setiawan
 - Abdul Fattah
-- Andrian
+- Adrian Aziz G
 - Leonardi Suwandi
