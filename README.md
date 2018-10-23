@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/DeniSetiawan7/cravetering-source/master/public/images/logo-font.png"></p>
+<p align="center"><img src="https://github.com/DeniSetiawan7/cravetering-source/blob/master/public/images/logo.png?raw=true"></p>
 
 ## About Cravetering
-- soon
+- Cravetering pada awalnya akan mencoba menarik awareness atau perhatian customer lewat iklan-iklan dan membagikan flyer yang telah dibuat. Kami akan mencoba membuat iklan dan flyer tersebut semenarik mungkin agar bisa menarik perhatian pelanggan walaupun hanya sebatas membaca judul atau nama produk kami.
