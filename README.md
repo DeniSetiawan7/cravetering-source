@@ -7,7 +7,7 @@
 - Wijoyo Sugianto ( ketua )
 - Andri Yanto ( Dokumentasi )
 - Valencia ( Desainer Grafis ) ex: logo diatas 
-- #Deni Setiawan ( Developer[Backend] )
+- ##Deni Setiawan ( FrontEnd Backend Developer )
 - Abdul Fattah ( Desain Aplikasi Web )
 - Adrian Aziz G ( PKM - K )
 - Leonardi Suwandi ( PKM - K )
